@@ -9,7 +9,7 @@ Python > 3.10
 - tqdm
 
 ### OpenAI Key
-Setup your openai Key as ENV Variable or in a .env file.
+Set your openai Key as ENV Variable or in a .env file.
 https://platform.openai.com/docs/quickstart/step-2-setup-your-api-key
 
 ## Usage
@@ -20,8 +20,8 @@ Speech model, Speaker and speed can be adjusted
 ### Text to be converted
 data_in/text.csv
 
-- First column is the file name to bne created.
-- Second column is the Text to be sopken.
+- First column is the file name to be created.
+- Second column is the Text to be spoken.
 
 
     welcome_de;Willkommen, ich hoffe du hast Spaß beim Lernen.
